@@ -2,3 +2,7 @@
 My very simple arch config for hyprland using noctalia.
 
 Includes my basic hyprland.lua as well as my nvim and kitty config nothing crazy at all just super basic revolving around having noctalia shell.
+
+Using the latest version of Hyprland with the .lua config as well as noctalia v5 their unstable branch nothing special for noctalia just installed it and set it up in the hyprland.lua no configuration just small visual tweaks made to my liking.
+
+This repo was just an easy way to store my configuration files to get them anywhere I need.
